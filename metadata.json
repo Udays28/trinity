@@ -1,0 +1,6 @@
+{
+  "name": "Trinity Power",
+  "description": "Premium Solar EPC Company Website",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
